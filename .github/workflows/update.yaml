@@ -2,9 +2,8 @@ name: Exchange currency rates
 
 on:
   push:
-    branches:
-      - master
-
+    branches: ["master", "main"]  
+  
   schedule:
     - cron: '0 1,23 * * *'  #runs every 1am and 11pm 
 
