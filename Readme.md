@@ -56,6 +56,7 @@ A significant amount of my time was spent trying to get my credit card to be acc
 keeps getting rejected for some reason and as such I didn't have access to the API_KEY. However their clear documentation helped me alot to still craft out the
 this solution and I have also been able to test it by assuming a random api_key and had the below result.
 
-```md
+
+
 
 ![Result](./Problem_statement-1/images/currency_data.png)
