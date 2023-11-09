@@ -62,6 +62,8 @@ this solution and I have also been able to test it by assuming a random api_key 
 ![Result](./Problem_statement-1/images/currency_data.png)
 
 
+
+
 __The result below also shows a successful cron job from github action__
 
-![Result](./Problem_statement-1/images/git_action.png)
+![Result](./Problem_statement-1/images/cron_status.png)
