@@ -54,9 +54,14 @@ __Note__ ℹ️:
  
 A significant amount of my time was spent trying to get my credit card to be accepted for the API free trial which
 keeps getting rejected for some reason and as such I didn't have access to the API_KEY. However their clear documentation helped me alot to still craft out the
-this solution and I have also been able to test it by assuming a random api_key and had the below result.
+this solution and I have also been able to test it by assuming a random api_key and had the below result running from local.
 
 
 
 
 ![Result](./Problem_statement-1/images/currency_data.png)
+
+
+__The result below also shows a successful cron job from github action__
+
+![Result](./Problem_statement-1/images/git_action.png)
