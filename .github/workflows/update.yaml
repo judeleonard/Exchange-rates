@@ -35,5 +35,5 @@ jobs:
       - name: Commit and Push updated data in this repo
         uses: mikeal/publish-to-github-action@master
         env:
-          GH: ${{ secrets.GH}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         
